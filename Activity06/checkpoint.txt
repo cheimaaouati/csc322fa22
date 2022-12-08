@@ -1,0 +1,2 @@
+
+checkpoint 2.3 When we use the displacement, the sphere's texture became more like a rock. The chape was completely changed.
